@@ -9,9 +9,9 @@
 // @author		        Marcos v.s Marques
 // @include             https://*screen=main*
 // @version     	    0.0.1
-// @updateURL		    dfdf
-// @downloadURL         dfdf
-// @supportURL          dfdf
+// @updateURL		    https://github.com/tribalwarsbr100/Upador-Tribal-Wars/raw/master/.Js/Upador%20Semi-Automatico%20Tribal%20Wars.js
+// @downloadURL         https://github.com/tribalwarsbr100/Upador-Tribal-Wars/raw/master/User.js/Upador%20Semi-Automatico%20Tribal%20Wars.user.js
+// @supportURL          https://github.com/tribalwarsbr100/Upador-Tribal-Wars/issues
 // @grant               GM_getResourceText
 // @grant               GM_addStyle
 // @grant               GM_getValue
